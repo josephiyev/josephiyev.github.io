@@ -1,0 +1,13 @@
+https://apps.who.int/gho/data/view.main.SDG2016LEXv?lang=en
+
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/crude-suicide-rates-(per-100-000-population)
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/malaria---number-of-reported-confirmed-cases
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/mean-bmi-(kg-m-)-(age-standardized-estimate)
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/household-air-pollution-attributable-deaths
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/population-using-safely-managed-drinking-water-services-(-)
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/new-hiv-infections-(per-1000-uninfected-population)
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/general-government-expenditure-on-health-as-a-percentage-of-total-government-expenditure
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/estimates-of-rates-of-homicides-per-100-000-population
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/deaths-due-to-tuberculosis-among-hiv-negative-people-(per-100-000-population)
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/number-of-under-five-deaths-(thousands)
+
