@@ -1,9 +1,3 @@
-"Applied filters:
-Dim1 type is Sex
-Location type is Country
-LANGUAGE_CODE is en
-IndicatorCode is CM_01",,,,
-,,,,
 Location,Period,Indicator,Dim1,First Tooltip
 Afghanistan,2019,Number of under-five deaths (thousands),Both sexes,72186 [56868-89342]
 Afghanistan,2019,Number of under-five deaths (thousands),Male,39303 [30856-48736]
