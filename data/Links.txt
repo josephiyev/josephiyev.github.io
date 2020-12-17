@@ -11,3 +11,5 @@ https://www.who.int/data/gho/data/indicators/indicator-details/GHO/estimates-of-
 https://www.who.int/data/gho/data/indicators/indicator-details/GHO/deaths-due-to-tuberculosis-among-hiv-negative-people-(per-100-000-population)
 https://www.who.int/data/gho/data/indicators/indicator-details/GHO/under-five-mortality-rate-(probability-of-dying-by-age-5-per-1000-live-births)
 
+https://www.kaggle.com/chapagain/country-state-geo-location
+
